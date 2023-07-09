@@ -1,0 +1,27 @@
+body{
+    height: 1000px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#fixMenu_photo1{
+    width: 40px;
+    height: 40px;
+    max-width: 100%;
+    height: auto;
+}
+#fixMenu_text1{
+    margin-left: 30px;
+}
+#fixMenu_text2{
+    margin-left: 30px;
+}
+#block1_photo1{
+    max-width: 100%;
+    height: auto;
+}
+#block2_photo1{
+    max-width: 100%;
+    height: auto;
+}
